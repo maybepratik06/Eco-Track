@@ -1,5 +1,5 @@
 #Eco - track
-# 🌱 EcoWaste
+# 🌱Eco Track
 
 "EcoWaste" is a smart, lightweight web application designed to monitor, track, and manage campus waste while promoting sustainability through gamification.
 
