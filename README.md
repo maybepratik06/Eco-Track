@@ -19,7 +19,7 @@ EcoWaste aims to empower campuses and students to measure their environmental im
 * **User Profile:** Personal stats, membership information, dorm block data, and overall environmental impact tracking.
 * **Backend Architecture:** Powered by a Python backend (`main.py` and the `backend/` directory) to handle server logic, data routing, and point allocations.
 * **Interactive Web Interface:** Clean and responsive single-file user interface (`frontend.html`) featuring live leaderboards, challenge dashboards, and a rewards store.
- 
+
 
 ## 📂 Project Structure
 
