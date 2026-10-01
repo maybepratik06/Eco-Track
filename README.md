@@ -1,7 +1,7 @@
 #Eco - track
 # 🌱Eco Track
 
-"EcoWaste" is a smart, lightweight web application designed to monitor, track, and manage campus waste while promoting sustainability through gamification.
+"Ecotrack" is a smart, lightweight web application designed to monitor, track, and manage campus waste while promoting sustainability through gamification.
 
 ## 🌿 About the Project
 
